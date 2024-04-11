@@ -17,6 +17,9 @@ function App() {
       <div>
         sexto commit
       </div>
+      <div>
+        7 commit
+      </div>
     </div>
   );
 }
