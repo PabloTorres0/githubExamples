@@ -20,6 +20,9 @@ function App() {
       <div>
         7 commit
       </div>
+      <div>
+        8 commit r2
+      </div>
     </div>
   );
 }
