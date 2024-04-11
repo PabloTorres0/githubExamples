@@ -20,6 +20,18 @@ function App() {
       <div>
         7 commit
       </div>
+      <div>
+        8 commit r2
+      </div>
+      <div>
+        9 commit r2
+      </div>
+      <div>
+        10 commit r2
+      </div>
+      <div>
+        despues del merge
+      </div>
     </div>
   );
 }
