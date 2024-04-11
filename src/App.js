@@ -26,6 +26,9 @@ function App() {
       <div>
         9 commit r2
       </div>
+      <div>
+        10 commit r2
+      </div>
     </div>
   );
 }
