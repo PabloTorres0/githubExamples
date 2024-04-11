@@ -29,6 +29,9 @@ function App() {
       <div>
         10 commit r2
       </div>
+      <div>
+        despues del merge
+      </div>
     </div>
   );
 }
